@@ -1,6 +1,11 @@
 # humanmycobiomescan
 HumanMycobiomeScan allows the characterization of the fungal fraction of complex microbial ecosystems directly from reads of shotgun metagenomics.
 
+Please see [SourceForge web page](https://sourceforge.net/projects/hmscan) for downloading ViromeScan.
+
+Please refer to [this publication](https://doi.org/10.1186/s12864-019-5883-y) for further information.
+
+
 ## README
 
 SPACE REQUIREMENTS : HMS requires about 65 GB of free space to work on your device
